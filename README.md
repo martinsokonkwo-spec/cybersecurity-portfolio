@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio — Adonai Kosi Martins
+# Cybersecurity Portfolio — Martins Okonkwo
 
 This repository showcases an end-to-end SOC → GRC cybersecurity portfolio, demonstrating practical skills in incident detection, analysis, response, risk assessment, and post-incident review. The projects reflect real-world security operations and governance workflows aligned with the NIST Cybersecurity Framework (CSF) and industry best practices.
 
