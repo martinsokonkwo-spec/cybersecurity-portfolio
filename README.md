@@ -1,48 +1,47 @@
 # Cybersecurity Portfolio — Martins Okonkwo
 
-This repository showcases an end-to-end SOC → GRC cybersecurity portfolio, demonstrating practical skills in incident detection, analysis, response, risk assessment, and post-incident review. The projects reflect real-world security operations and governance workflows aligned with the NIST Cybersecurity Framework (CSF) and industry best practices.
+# SOC → GRC Cybersecurity Portfolio
 
-## Portfolio Focus
-- Security Operations Center (SOC) analysis
-- Incident detection, triage, and response
-- Log analysis and indicator of compromise (IOC) identification
+## Overview
+This repository contains hands-on cybersecurity projects demonstrating practical skills across Security Operations Center (SOC) and Governance, Risk, and Compliance (GRC) functions.
+
+The projects simulate real-world security analyst workflows including alert triage, log analysis, incident response, risk assessment, and post-incident review, aligned with industry-recognized frameworks such as NIST.
+
+## Portfolio Structure
+The portfolio is organized into five projects representing the full incident and risk lifecycle:
+
+1. **SOC Alert Triage & Incident Reporting**  
+   Analysis and documentation of security alerts to determine severity and escalation requirements.
+
+2. **Log Analysis & IOC Identification**  
+   Examination of security logs to identify Indicators of Compromise and suspicious activity.
+
+3. **NIST-Aligned Incident Response Playbook**  
+   A structured incident response playbook based on NIST Incident Response standards.
+
+4. **Risk Assessment & Control Mapping (NIST CSF)**  
+   Identification of cybersecurity risks and mapping to appropriate controls using the NIST Cybersecurity Framework.
+
+5. **Post-Incident Risk Review & Lessons Learned**  
+   Analysis of resolved incidents to identify control gaps and recommend security improvements.
+
+## Skills Demonstrated
+- SOC alert triage and analysis
+- Log analysis and threat detection
+- Incident response planning and documentation
 - Risk assessment and control mapping
-- Post-incident review and continuous improvement
-- Governance, Risk, and Compliance (GRC) fundamentals
+- Governance and continuous security improvement
 
-## Projects Overview
+## Target Roles
+- SOC Analyst (Tier 1 / Junior)
+- Cybersecurity Analyst
+- GRC / Risk / Compliance Analyst
 
-### 1. SOC Alert Triage & Incident Reporting
-- Triage security alerts and document incidents
-- Analyze alert context, impact, and response actions
-- Produce structured incident reports suitable for SOC environments
-
-### 2. Log Analysis & IOC Identification
-- Analyze system and security logs
-- Identify indicators of compromise (IOCs)
-- Correlate events to detect suspicious or malicious activity
-
-### 3. Incident Response Playbook (NIST SP 800-61)
-- Develop an incident response playbook aligned with NIST SP 800-61
-- Define roles, responsibilities, and response phases
-- Support consistent and effective incident handling
-
-### 4. Risk Assessment & Control Mapping
-- Perform risk assessment based on a phishing and credential compromise scenario
-- Evaluate impact and likelihood
-- Identify inherent and residual risk
-- Map security controls to the NIST Cybersecurity Framework (CSF)
-
-### 5. Post-Incident Risk Review
-- Conduct a post-incident review following a phishing-related security incident
-- Analyze root causes and control effectiveness
-- Document lessons learned and actionable recommendations
-- Support continuous improvement of security posture
-
-## Frameworks & Standards Referenced
+## Frameworks & Standards
+- NIST Incident Response Framework
 - NIST Cybersecurity Framework (CSF)
-- NIST SP 800-61 (Incident Response Lifecycle)
-- Risk management and GRC best practices
 
-## Purpose
-This portfolio demonstrates applied cybersecurity skills beyond certifications, highlighting analytical thinking, structured documentation, and the ability to bridge SOC operations with GRC risk management.
+## About Me
+Entry-level cybersecurity professional with hands-on SOC and GRC experience, focused on structured analysis, framework alignment, and practical security operations.
+
+This portfolio reflects a disciplined, project-based approach to building real-world cybersecurity capability.
