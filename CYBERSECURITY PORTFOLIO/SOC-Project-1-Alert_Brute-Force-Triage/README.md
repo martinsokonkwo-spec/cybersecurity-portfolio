@@ -1,19 +1,25 @@
+# SOC Alert Triage and Incident Reporting
+
 ## Objective
-Simulate a Tier-1 SOC analyst workflow by investigating a brute-force login alert,
-performing triage, documenting findings, and escalating appropriately.
+To simulate the real-world workflow of a SOC Tier 1 analyst by triaging security alerts, determining severity, and producing a clear incident report for escalation and documentation.
 
+## Scenario
+A security monitoring system generates alerts indicating suspicious activity on an endpoint. The analyst must review the alert, assess impact, determine priority, and document findings.
 
+## Key Tasks Performed
+- Reviewed simulated SOC alerts
+- Assessed alert severity and potential impact
+- Identified affected assets and users
+- Determined escalation requirements
+- Produced a structured incident report
 
-## Skills Demonstrated
-- SIEM alert analysis
-- Authentication log investigation
-- Threat intelligence correlation
-- Incident documentation
-- SOC escalation procedures
+## Tools & Frameworks
+- SOC alert triage methodology
+- Incident handling principles
+- NIST Incident Response lifecycle
 
-
+## Deliverables
+- Incident report documenting alert analysis, severity, and response actions
 
 ## Outcome
-The alert was classified as a true positive brute-force attempt and escalated for
-preventative controls and continued monitoring.
-
+This project demonstrates practical SOC triage skills, analytical thinking, and professional incident documentation aligned with entry-level SOC analyst responsibilities.
